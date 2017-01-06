@@ -8,7 +8,7 @@ function EnglishProvider($translateProvider) {
         HEADER_LOGIN_BUTTON: 'Login',
         HEADER_SIGNUP_BUTTON: 'Sign Up',
         HEADER_LANG_TITLE: 'Language',
-        HEADER_LANG_SELECT: 'Select a language',
+        HEADER_LANG_SELECT: 'Выбрать язык',
         HEADER_NODE_BLOCK_HEIGHT: 'Block height',
         HEADER_NODE_CURRENT_NODE: 'Current node',
         HEARDER_NODE_LIST: 'Nodes list',
